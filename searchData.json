@@ -1,0 +1,389 @@
+{
+ "kind": "customsearch#search",
+ "url": {
+  "type": "application/json",
+  "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&relatedSite={relatedSite?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+ },
+ "queries": {
+  "request": [
+   {
+    "title": "Google Custom Search - Hur många grader ör en cirkel?",
+    "totalResults": "2290000",
+    "searchTerms": "Hur många grader ör en cirkel?",
+    "count": 10,
+    "startIndex": 1,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018356967066260748635:ytfj9eecqsk"
+   }
+  ],
+  "nextPage": [
+   {
+    "title": "Google Custom Search - Hur många grader ör en cirkel?",
+    "totalResults": "2290000",
+    "searchTerms": "Hur många grader ör en cirkel?",
+    "count": 10,
+    "startIndex": 11,
+    "inputEncoding": "utf8",
+    "outputEncoding": "utf8",
+    "safe": "off",
+    "cx": "018356967066260748635:ytfj9eecqsk"
+   }
+  ]
+ },
+ "context": {
+  "title": "Primetime"
+ },
+ "searchInformation": {
+  "searchTime": 0.231097,
+  "formattedSearchTime": "0,23",
+  "totalResults": "2290000",
+  "formattedTotalResults": "2 290 000"
+ },
+ "spelling": {
+  "correctedQuery": "Hur många grader är en cirkel?",
+  "htmlCorrectedQuery": "Hur många grader \u003cb\u003e\u003ci\u003eär\u003c/i\u003e\u003c/b\u003e en cirkel?"
+ },
+ "items": [
+  {
+   "kind": "customsearch#result",
+   "title": "Vinklar och grader introd. 1. Mellanstadiet.",
+   "htmlTitle": "Vinklar och \u003cb\u003egrader\u003c/b\u003e introd. 1. Mellanstadiet.",
+   "link": "http://www.rasmus.is/sv/t/m/stm13k01.htm",
+   "displayLink": "www.rasmus.is",
+   "snippet": "Cirkeln är uppdelad i fyra vinklar. En cirkel är ... Exempel: Hur många grader är \nvinkeln X ? ... Träna på detta och gör sedan test 1 i Vinklar och grader. P.S. Kom\n ...",
+   "htmlSnippet": "\u003cb\u003eCirkeln\u003c/b\u003e är uppdelad i fyra vinklar. En \u003cb\u003ecirkel\u003c/b\u003e är ... Exempel: \u003cb\u003eHur många grader\u003c/b\u003e är \u003cbr\u003e\nvinkeln X ? ... Träna på detta och \u003cb\u003egör\u003c/b\u003e sedan test 1 i Vinklar och \u003cb\u003egrader\u003c/b\u003e. P.S. Kom\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "Bqozahr__f0J",
+   "formattedUrl": "www.rasmus.is/sv/t/m/stm13k01.htm",
+   "htmlFormattedUrl": "www.rasmus.is/sv/t/m/stm13k01.htm",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "245",
+      "height": "206",
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4lQ5FMlIF_NzsA6FSkNt3Y0HriBKx489mJIUcseSByRI-9N11eb4-KZ5w"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://www.rasmus.is/sv/t/m/stm13k01a.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Vinklar (Årskurs 7, Geometri och enheter) – Matteboken",
+   "htmlTitle": "Vinklar (Årskurs 7, Geometri och enheter) – Matteboken",
+   "link": "https://www.matteboken.se/lektioner/skolar-7/geometri-och-enheter/vinklar",
+   "displayLink": "www.matteboken.se",
+   "snippet": "Vi bekantar oss med begreppet vinkel och lär oss hur storleken på en vinkel ... Ett \nhelt varv (en cirkel) är uppdelat i 360°. Därför kan vi se 1° som. 1360varv. Mäta \nen vinkel. Vinkelns storlek fås av hur många grader det krävs för att vrida det ena\n ...",
+   "htmlSnippet": "Vi bekantar oss med begreppet vinkel och lär oss hur storleken på en vinkel ... Ett \u003cbr\u003e\nhelt varv (en \u003cb\u003ecirkel\u003c/b\u003e) är uppdelat i 360°. Därför kan vi se 1° som. 1360varv. Mäta \u003cbr\u003e\nen vinkel. Vinkelns storlek fås av \u003cb\u003ehur många grader\u003c/b\u003e det krävs \u003cb\u003eför\u003c/b\u003e att vrida det ena\u003cbr\u003e\n&nbsp;...",
+   "cacheId": "rNf3GKVn7PMJ",
+   "formattedUrl": "https://www.matteboken.se/lektioner/skolar-7/geometri.../vinklar",
+   "htmlFormattedUrl": "https://www.matteboken.se/lektioner/skolar-7/geometri.../vinklar",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSRdPVGjeVlv-lCDSE_B8e-MFX2-V5204BifSGoHlJL9ojQXDTN4-KmjqCW"
+     }
+    ],
+    "metatags": [
+     {
+      "format-detection": "telephone=no",
+      "apple-mobile-web-app-capable": "yes",
+      "og:title": "Vinklar (Årskurs 7, Geometri och enheter) – Matteboken",
+      "og:type": "website",
+      "og:url": "https://www.matteboken.se/lektioner/skolar-7/geometri-och-enheter/vinklar",
+      "og:site_name": "Matteboken",
+      "og:image": "https://www.matteboken.se/media/438688/share.png",
+      "og:description": "Vi bekantar oss med begreppet vinkel och lär oss hur storleken på en vinkel kan mätas och hur vi kan rita en vinkel. Vi går också igenom ett antal olika typer av vinklar.",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.matteboken.se/media/438688/share.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Grad (vinkelenhet) – Wikipedia",
+   "htmlTitle": "Grad (vinkelenhet) – Wikipedia",
+   "link": "https://sv.wikipedia.org/wiki/Grad_(vinkelenhet)",
+   "displayLink": "sv.wikipedia.org",
+   "snippet": "För att antalet grader i en cirkel ska kunna vara delbart med varje nummer från 1 \n... I många praktiska tillämpningar är ett helt gradtal ett tillräckligt litet mått för att ...",
+   "htmlSnippet": "\u003cb\u003eFör\u003c/b\u003e att antalet \u003cb\u003egrader\u003c/b\u003e i en \u003cb\u003ecirkel\u003c/b\u003e ska kunna vara delbart med varje nummer från 1 \u003cbr\u003e\n... I \u003cb\u003emånga\u003c/b\u003e praktiska tillämpningar är ett helt gradtal ett tillräckligt litet mått \u003cb\u003eför\u003c/b\u003e att&nbsp;...",
+   "cacheId": "-brdWHVmoxEJ",
+   "formattedUrl": "https://sv.wikipedia.org/wiki/Grad_(vinkelenhet)",
+   "htmlFormattedUrl": "https://sv.wikipedia.org/wiki/Grad_(vinkelenhet)",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "300",
+      "height": "168",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQ8eu2w_8B_AW6L_eUp9kUXySInlam5pgWIGxTAgRLz-SLxXMLDqzCxdMrT"
+     }
+    ],
+    "metatags": [
+     {
+      "referrer": "origin",
+      "og:image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Goniometro.jpg"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/Goniometro.jpg"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cirkeln",
+   "htmlTitle": "\u003cb\u003eCirkeln\u003c/b\u003e",
+   "link": "http://ncm.gu.se/media/namnaren/npn/arkiv_xtra/04-3_persson.pdf",
+   "displayLink": "ncm.gu.se",
+   "snippet": "Det finns inget svenskt ord för cirkel. Detta är ... många cirkelrunda artefakter. ... \nHur uppkommer en cirkel? Alla .... 360 grader motsvaras då av 2 π radianer, och.",
+   "htmlSnippet": "Det finns inget svenskt ord \u003cb\u003eför cirkel\u003c/b\u003e. Detta är ... \u003cb\u003emånga cirkelrunda\u003c/b\u003e artefakter. ... \u003cbr\u003e\n\u003cb\u003eHur\u003c/b\u003e uppkommer en \u003cb\u003ecirkel\u003c/b\u003e? Alla .... 360 \u003cb\u003egrader\u003c/b\u003e motsvaras då av 2 π radianer, och.",
+   "cacheId": "nTK_hn_D2N0J",
+   "mime": "application/pdf",
+   "fileFormat": "PDF/Adobe Acrobat",
+   "formattedUrl": "ncm.gu.se/media/namnaren/npn/arkiv_xtra/04-3_persson.pdf",
+   "htmlFormattedUrl": "ncm.gu.se/media/namnaren/npn/arkiv_xtra/04-3_persson.pdf",
+   "pagemap": {
+    "metatags": [
+     {
+      "creationdate": "D:20070423143958+02'00'",
+      "creator": "Adobe InDesign CS2 (4.0)",
+      "producer": "Adobe PDF Library 7.0",
+      "moddate": "D:20070423144002+02'00'"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "4.1 Vinklar och cirklar - Förberedande kurs i matematik 1",
+   "htmlTitle": "4.1 Vinklar och \u003cb\u003ecirklar\u003c/b\u003e - Förberedande kurs i matematik 1",
+   "link": "http://wiki.math.se/wikis/sommarmatte1/index.php/4.1_Vinklar_och_cirklar",
+   "displayLink": "wiki.math.se",
+   "snippet": "Det finns flera olika enheter för att mäta vinklar, som är praktiska i olika \nsammanhang. De två vanligaste vinkelmåtten i matematiken är grader och \nradianer. ... riktning med flera olika vinklar som skiljer sig från varandra med ett \nhelt antal varv.",
+   "htmlSnippet": "Det finns flera olika enheter \u003cb\u003eför\u003c/b\u003e att mäta vinklar, som är praktiska i olika \u003cbr\u003e\nsammanhang. De två vanligaste vinkelmåtten i matematiken är \u003cb\u003egrader\u003c/b\u003e och \u003cbr\u003e\nradianer. ... riktning med flera olika vinklar som skiljer sig från varandra med ett \u003cbr\u003e\nhelt \u003cb\u003eantal\u003c/b\u003e varv.",
+   "cacheId": "GTl4Y2rp6QwJ",
+   "formattedUrl": "wiki.math.se/wikis/sommarmatte1/index.../4.1_Vinklar_och_cirklar",
+   "htmlFormattedUrl": "wiki.math.se/wikis/sommarmatte1/index.../4.1_Vinklar_och_\u003cb\u003ecirklar\u003c/b\u003e",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "178",
+      "height": "162",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTYAE5ZoI9WOQaroP3wCKdGTknYYNOhygnOT5i60GLGh5TNvs_H8WC-phzU"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://wiki.math.se/wikis/sommarmatte1/img_auth.php/7/74/Gradskiva_-_57%C2%B0.gif"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Radianer – Köping kodar",
+   "htmlTitle": "Radianer – Köping kodar",
+   "link": "http://www.xn--kpingkodar-ecb.nu/gymnasiet/kurs-3/radianer/",
+   "displayLink": "www.xn--kpingkodar-ecb.nu",
+   "snippet": "För att bekanta sig med radianer är det bra att titta på en cirkel. En cirkels omkrets \n.... Hur många grader/radianer saknas för att hela cirkeln ska fyllas med färg?",
+   "htmlSnippet": "\u003cb\u003eFör\u003c/b\u003e att bekanta sig med radianer är det bra att titta på en \u003cb\u003ecirkel\u003c/b\u003e. En cirkels omkrets \u003cbr\u003e\n.... \u003cb\u003eHur många grader\u003c/b\u003e/radianer saknas \u003cb\u003eför\u003c/b\u003e att hela \u003cb\u003ecirkeln\u003c/b\u003e ska fyllas med färg?",
+   "cacheId": "nzgpksQdU4YJ",
+   "formattedUrl": "www.köpingkodar.nu/gymnasiet/kurs-3/radianer/",
+   "htmlFormattedUrl": "www.köpingkodar.nu/gymnasiet/kurs-3/radianer/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "241",
+      "height": "209",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT0UWALNKpoKkq_etM7gEFksj36N4rqMRF4BRrjHN88pL1ampU7Wuo3p6Xl"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "msapplication-tilecolor": "#ffffff",
+      "msapplication-config": "/wp-content/uploads/fbrfg/browserconfig.xml",
+      "theme-color": "#ffffff"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://www.xn--kpingkodar-ecb.nu/wp-content/uploads/2019/01/Enhetscirkel-300x261.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Vinklar | Matteguiden",
+   "htmlTitle": "Vinklar | Matteguiden",
+   "link": "http://www.matteguiden.se/matte-a/geometri/vinklar/",
+   "displayLink": "www.matteguiden.se",
+   "snippet": "Där ser vi även att de vinklar som är mindre än 90° kallas för spetsiga vinklar, ... \nOm vi drar en linje genom hörnet där den röda cirkeln är så ser vi att utrymmet \novanför blir en halvcirkel. ... Hur många grader har varje hörn i en liksidig triangel\n?",
+   "htmlSnippet": "Där ser vi även att de vinklar som är mindre än 90° kallas \u003cb\u003eför\u003c/b\u003e spetsiga vinklar, ... \u003cbr\u003e\nOm vi drar en linje genom hörnet där den röda \u003cb\u003ecirkeln\u003c/b\u003e är så ser vi att utrymmet \u003cbr\u003e\novanför blir en \u003cb\u003ehalvcirkel\u003c/b\u003e. ... \u003cb\u003eHur många grader\u003c/b\u003e har varje hörn i en liksidig triangel\u003cbr\u003e\n?",
+   "cacheId": "R5iDIgWem0UJ",
+   "formattedUrl": "www.matteguiden.se/matte-a/geometri/vinklar/",
+   "htmlFormattedUrl": "www.matteguiden.se/matte-a/geometri/vinklar/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "255",
+      "height": "198",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOuJC3u6GP11zOuZ92Jwsfna3Hqs5j5SX3U1avSNEiIgNrAuAFX2HhXKI"
+     }
+    ],
+    "metatags": [
+     {
+      "distribution": "global",
+      "language": "sv"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://www.matteguiden.se/wp-content/uploads/2010/01/exempel-pa-olika-vinklar.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Cirkelsektor (Matematik, Geometri) – Formelsamlingen",
+   "htmlTitle": "\u003cb\u003eCirkelsektor\u003c/b\u003e (Matematik, Geometri) – Formelsamlingen",
+   "link": "https://www.formelsamlingen.se/alla-amnen/matematik/geometri/cirkelsektor",
+   "displayLink": "www.formelsamlingen.se",
+   "snippet": "I formeln är α medelpunktsvinkeln i grader och v är medelpunktsvinkeln i \nradianer. En cirkelsektor är en avgränsad del av en cirkel. Hur stor del av cirkeln \nen ...",
+   "htmlSnippet": "I formeln är α medelpunktsvinkeln i \u003cb\u003egrader\u003c/b\u003e och v är medelpunktsvinkeln i \u003cbr\u003e\nradianer. En \u003cb\u003ecirkelsektor\u003c/b\u003e är en avgränsad del av en \u003cb\u003ecirkel\u003c/b\u003e. \u003cb\u003eHur\u003c/b\u003e stor del av \u003cb\u003ecirkeln\u003c/b\u003e \u003cbr\u003e\nen&nbsp;...",
+   "cacheId": "CFQeuoFZDgEJ",
+   "formattedUrl": "https://www.formelsamlingen.se/alla-amnen/matematik/.../cirkelsektor",
+   "htmlFormattedUrl": "https://www.formelsamlingen.se/alla-amnen/matematik/.../\u003cb\u003ecirkel\u003c/b\u003esektor",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT4bATvLlz7GozSSOro3STrg7-dbKPTSmIY6HbE-6DhfaHlcC7E7ocykYs"
+     }
+    ],
+    "metatags": [
+     {
+      "format-detection": "telephone=no",
+      "apple-mobile-web-app-capable": "yes",
+      "og:title": "Cirkelsektor (Matematik, Geometri) – Formelsamlingen",
+      "og:type": "website",
+      "og:url": "https://www.formelsamlingen.se/alla-amnen/matematik/geometri/cirkelsektor",
+      "og:site_name": "Formelsamlingen",
+      "og:image": "https://www.formelsamlingen.se/media/278691/formelshare.png",
+      "viewport": "width=device-width, initial-scale=1.0"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.formelsamlingen.se/media/278691/formelshare.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "Trigonometri - Enhetscirkeln",
+   "htmlTitle": "Trigonometri - \u003cb\u003eEnhetscirkeln\u003c/b\u003e",
+   "link": "http://www.malinc.se/math/trigonometry/unitcirclesv.php",
+   "displayLink": "www.malinc.se",
+   "snippet": "Om man använder enhetscirkeln för att definiera sinus och cosinus, så blir ... De \ndelar av graferna som visas i appleten ovan, upprepas oändligt många gånger. ... \nDetta beror på att GeoGebra använder enheten radianer istället för grader.",
+   "htmlSnippet": "Om man använder \u003cb\u003eenhetscirkeln för\u003c/b\u003e att definiera sinus och cosinus, så blir ... De \u003cbr\u003e\ndelar av graferna som visas i appleten ovan, upprepas oändligt \u003cb\u003emånga\u003c/b\u003e gånger. ... \u003cbr\u003e\nDetta beror på att GeoGebra använder enheten radianer istället \u003cb\u003eför grader\u003c/b\u003e.",
+   "cacheId": "NZh0aBH4sfEJ",
+   "formattedUrl": "www.malinc.se/math/trigonometry/unitcirclesv.php",
+   "htmlFormattedUrl": "www.malinc.se/math/trigonometry/unitcirclesv.php",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "225",
+      "height": "225",
+      "src": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRYY1usDtILFxAgkufB85utWPNqtX3Vnc73Ol6w9UHWKh6JXfar9Zzzjzw"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1",
+      "apple-mobile-web-app-capable": "yes",
+      "og:title": "Trigonometri - Enhetscirkeln",
+      "og:type": "article",
+      "og:image": "http://www.malinc.se/math/trigonometry/images/thumbnails/unitcircle.png",
+      "og:image:type": "image/png",
+      "og:image:width": "1200",
+      "og:image:height": "1200",
+      "og:site_name": "Malin Christersson's Math Site",
+      "og:description": "Definitioner med hjälp av enhetscirkel, grafer till trigonometriska funktioner, radianer."
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "http://www.malinc.se/math/trigonometry/images/thumbnails/unitcircle.png"
+     }
+    ]
+   }
+  },
+  {
+   "kind": "customsearch#result",
+   "title": "vinklar som förhåller sig till varandra (Matematik/Årskurs 9 ...",
+   "htmlTitle": "vinklar som förhåller sig till varandra (Matematik/Årskurs 9 ...",
+   "link": "https://www.pluggakuten.se/trad/vinklar-som-forhaller-sig-till-varandra/",
+   "displayLink": "www.pluggakuten.se",
+   "snippet": "Hur ska jag räkna ut denna?om vinkel x är 5 så är vinkel y 8?... ... För att vara \nallmän gäller det att 5 bitar av x är samma som åtta bitar av y. Hur stor är vinkeln \ny? ... Titta på bilden! y är en sjättedel av cirkeln. Hur många grader motsvarar det\n? 0.",
+   "htmlSnippet": "Hur ska jag räkna ut denna?om vinkel x är 5 så är vinkel y 8?... ... \u003cb\u003eFör\u003c/b\u003e att vara \u003cbr\u003e\nallmän gäller det att 5 bitar av x är samma som åtta bitar av y. Hur stor är vinkeln \u003cbr\u003e\ny? ... Titta på bilden! y är en sjättedel av \u003cb\u003ecirkeln\u003c/b\u003e. \u003cb\u003eHur många grader\u003c/b\u003e motsvarar det\u003cbr\u003e\n? 0.",
+   "cacheId": "lEjRgcEOPLUJ",
+   "formattedUrl": "https://www.pluggakuten.se/.../vinklar-som-forhaller-sig-till-varandra/",
+   "htmlFormattedUrl": "https://www.pluggakuten.se/.../vinklar-som-forhaller-sig-till-varandra/",
+   "pagemap": {
+    "cse_thumbnail": [
+     {
+      "width": "310",
+      "height": "163",
+      "src": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSWIo5E8bn6C28XSGQPR2zij2ycqYEh-c-elz9DsMbWkxN38YCLoeF3A2w"
+     }
+    ],
+    "metatags": [
+     {
+      "viewport": "width=device-width, initial-scale=1.0",
+      "og:description": "Hur ska jag räkna ut denna?om vinkel x är 5 så är vinkel y 8?...",
+      "og:site_name": "Pluggakuten",
+      "og:type": "article",
+      "og:image": "https://www.pluggakuten.se/Themes/Pluggakuten/content/images/share.png?width=1200&height=630",
+      "og:image:width": "1200",
+      "og:image:height": "630",
+      "article:author": "https://www.facebook.com/mattecentrum",
+      "og:title": "vinklar som förhåller sig till varandra (Matematik/Årskurs 9) – Pluggakuten",
+      "og:url": "https://www.pluggakuten.se/trad/vinklar-som-forhaller-sig-till-varandra/",
+      "twitter:card": "summary",
+      "twitter:title": "vinklar som förhåller sig till varandra (Matematik/Årskurs 9) – Pluggakuten",
+      "twitter:description": "Hur ska jag räkna ut denna?om vinkel x är 5 så är vinkel y 8?..."
+     }
+    ],
+    "breadcrumb": [
+     {
+      "url": "Matematik"
+     }
+    ],
+    "cse_image": [
+     {
+      "src": "https://www.pluggakuten.se/Themes/Pluggakuten/content/images/share.png?width=1200&height=630"
+     }
+    ]
+   }
+  }
+ ]
+}
